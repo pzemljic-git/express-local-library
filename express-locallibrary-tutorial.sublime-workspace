@@ -1,0 +1,2006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LDB",
+				"LBD_DocID"
+			],
+			[
+				"IMPORT",
+				"IMPORT_ROOT_OBJ"
+			],
+			[
+				"IMPORT_RO",
+				"IMPORT_ROOT_OBJ"
+			],
+			[
+				"IMPORT_",
+				"IMPORT_ROOT"
+			],
+			[
+				"existing",
+				"existingTopics"
+			],
+			[
+				"DP_",
+				"DP_IS_READER_INTERFACE"
+			],
+			[
+				"has",
+				"hasWall"
+			],
+			[
+				"clas",
+				"classMethodStatic\tstatic method"
+			],
+			[
+				"class",
+				"classMethod\tmethod"
+			],
+			[
+				"OD_",
+				"OD_ClientMatterNo"
+			],
+			[
+				"runnin",
+				"RUNNING_CASE_RIGHTS"
+			],
+			[
+				"index",
+				"indexConditions"
+			],
+			[
+				"formva",
+				"formvalues"
+			],
+			[
+				"DPW",
+				"DPWWorkProduct"
+			],
+			[
+				"com",
+				" HWCUSTOM by pzemljic: ${1:comment}\t// HWCUSTOM by pzemljic: ${1:comment}"
+			],
+			[
+				"separ",
+				"separatorChar_"
+			],
+			[
+				"UNKOWN",
+				"UNKNOWN_EXTENSIONS"
+			],
+			[
+				"IMP",
+				"IMPORT_TO"
+			],
+			[
+				"meta",
+				"meta_file"
+			],
+			[
+				"provision",
+				"provisions_res"
+			],
+			[
+				"check",
+				"checkboxes"
+			],
+			[
+				"writeln",
+				"writelnError"
+			],
+			[
+				"hw",
+				" HWCUSTOM by pzemljic: ${1:comment}\t// HWCUSTOM by pzemljic: ${1:comment}"
+			],
+			[
+				"Reg",
+				"RegExp"
+			],
+			[
+				"last_",
+				"last_level"
+			],
+			[
+				"last",
+				"last_node"
+			],
+			[
+				"save",
+				"saveStructure"
+			],
+			[
+				"precen",
+				"precedent_types"
+			],
+			[
+				"prece",
+				"precedent_types"
+			],
+			[
+				"preced",
+				"precedent_type"
+			],
+			[
+				"Private",
+				"PrivatePrecedentType"
+			],
+			[
+				"Disable",
+				"DisableContextMenu"
+			],
+			[
+				"Cl",
+				"ClientName"
+			],
+			[
+				"header",
+				"header_info"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"values",
+				"values_operator"
+			],
+			[
+				"doc",
+				"DocAuthor"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"contain",
+				"container_object"
+			],
+			[
+				"HW_",
+				"HW_API_Error"
+			],
+			[
+				"wri",
+				"writelnError"
+			],
+			[
+				"web",
+				"web_address"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"the",
+				"theParams"
+			],
+			[
+				"Confi",
+				"Confidential"
+			],
+			[
+				"onclick",
+				"onclickpart"
+			],
+			[
+				"oncli",
+				"onclick_str"
+			],
+			[
+				"ui_",
+				"ui_class"
+			],
+			[
+				"DPW_Liti",
+				"DPW_LitigationDocumentUI"
+			],
+			[
+				"toS",
+				"toString"
+			],
+			[
+				"expand",
+				"expandCollapseAll"
+			],
+			[
+				"HW_A",
+				"HW_API_Server\tclass"
+			],
+			[
+				"HW_API_",
+				"HW_API_Error\tclass"
+			],
+			[
+				"HWA",
+				"HW_API_ObjectArray\tclass"
+			],
+			[
+				"HW_a",
+				"HW_API_Error\tclass"
+			],
+			[
+				"mod",
+				"modifications\tproperty"
+			],
+			[
+				"GetGrou",
+				"GetGroupReturn\tinterface"
+			],
+			[
+				"ad",
+				"AddGroupParams\tinterface"
+			],
+			[
+				"Obj",
+				"ObjectMode\tenum"
+			],
+			[
+				"m",
+				"mode\tproperty"
+			],
+			[
+				"HW",
+				"HW_API_Server\tclass"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"Navigate",
+				"NavigateReturnModeNormal\tinterface"
+			],
+			[
+				"Navi",
+				"NavigateMode\tenum"
+			],
+			[
+				"ATT",
+				"ATTRIBUTES_TO_RETURN"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"new",
+				"new_cmn"
+			],
+			[
+				"ClientMatte",
+				"ClientMatterNote"
+			],
+			[
+				"restrictingkeyquery_",
+				"restrictingkeyquery_old"
+			],
+			[
+				"restr",
+				"restrictingkeyquery_new"
+			],
+			[
+				"restri",
+				"restrictingkeyquery_old"
+			],
+			[
+				"rest",
+				"restrictingkeyquery_new"
+			],
+			[
+				"exte",
+				"extendingkeyquery_old"
+			],
+			[
+				"extend",
+				"extendingkeyquery_new"
+			],
+			[
+				"p",
+				"parents\t.parents"
+			],
+			[
+				"old_",
+				"old_query"
+			],
+			[
+				"update",
+				"updateQuery"
+			],
+			[
+				"search_",
+				"search_params"
+			],
+			[
+				"cla",
+				"classMethod\tmethod"
+			],
+			[
+				"att",
+				"attr_values"
+			],
+			[
+				"modifie",
+				"modifiedValues"
+			],
+			[
+				"del",
+				"deletedValues"
+			],
+			[
+				"g",
+				"GOid"
+			],
+			[
+				"Allo",
+				"AllowHierarchical"
+			],
+			[
+				"delted",
+				"deleted_values"
+			],
+			[
+				"dele",
+				"deleted_values"
+			],
+			[
+				"suge",
+				"suggestions"
+			],
+			[
+				"typeahe",
+				"typeahead"
+			],
+			[
+				"sug",
+				"suggestion"
+			],
+			[
+				"suggest",
+				"suggestion"
+			],
+			[
+				"tool",
+				"tooltip"
+			],
+			[
+				"escape",
+				"escapeSlashes"
+			],
+			[
+				"caption",
+				"caption2name"
+			],
+			[
+				"name",
+				"name2caption"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fix",
+				"fixFormPage"
+			],
+			[
+				"ft",
+				"ft_attribute_query"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"combined",
+				"combined_values"
+			],
+			[
+				"k",
+				"KEY"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"typeah",
+				"typeahead"
+			],
+			[
+				"has_",
+				"has_write_access"
+			],
+			[
+				"javas",
+				"javascript"
+			],
+			[
+				"action",
+				"actionhandler"
+			],
+			[
+				"kill",
+				"killWaveMaster"
+			],
+			[
+				"docu",
+				"documentIDs"
+			],
+			[
+				"recip",
+				"recipients"
+			],
+			[
+				"hwcu",
+				" HWCUSTOM by pzemljic: ${1:comment}\t// HWCUSTOM by pzemljic: ${1:comment}"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"Document",
+				"DocumentIDs"
+			],
+			[
+				"anchor",
+				"anchor_pos"
+			],
+			[
+				"scroll",
+				"scrollTo"
+			],
+			[
+				"get",
+				"getTOC"
+			],
+			[
+				"toLow",
+				"toLowerCase"
+			],
+			[
+				"function",
+				"functionName"
+			],
+			[
+				"idx",
+				"idx_a"
+			],
+			[
+				"relat",
+				"relation_a"
+			],
+			[
+				"remo",
+				"remove_emtpy_str"
+			],
+			[
+				"hw_g",
+				"hw_getFormValueData"
+			],
+			[
+				"docs",
+				"docs_all"
+			],
+			[
+				"docs_",
+				"docs_legacy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/bookinstanceController.js",
+			"settings":
+			{
+				"buffer_size": 3377,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/bookinstance_form.jade",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/authorController.js",
+			"settings":
+			{
+				"buffer_size": 4764,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/author_delete.jade",
+			"settings":
+			{
+				"buffer_size": 661,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/author_detail.jade",
+			"settings":
+			{
+				"buffer_size": 420,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Hyperwave.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 353.0,
+		"last_filter": "jav",
+		"selected_items":
+		[
+			[
+				"jav",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"hyper",
+				"Set Syntax: Hyperwave Resource"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsav",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"hyperwave",
+				"Set Syntax: Hyperwave Resource"
+			],
+			[
+				"hyp",
+				"Set Syntax: Hyperwave Resource"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Hyperwave UI Class"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pri",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"hw",
+				"Set Syntax: Hyperwave Resource"
+			],
+			[
+				"JAVAS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"svn",
+				"TortoiseSVN: Log"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: class",
+				"Snippet: classMethod"
+			],
+			[
+				"snippet",
+				"Snippet: classMethod"
+			],
+			[
+				"snippet fun",
+				"Snippet: Function"
+			],
+			[
+				"snippet get",
+				"Snippet: Get Elements"
+			],
+			[
+				"snipp get",
+				"Snippet: Get Elements"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"synt javs",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/bin",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/controllers",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/models",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/routes",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views"
+	],
+	"file_history":
+	[
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/controllers/bookController.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/models/book.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/book_form.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/controllers/authorController.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/author_form.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/controllers/genreController.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/genre_form.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/book_detail.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/author_detail.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/controllers/bookinstanceController.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/bookinstance_detail.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/models/bookinstance.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/models/author.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/app.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/author_list.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/genre_detail.jade",
+		"/C/Users/p_zem/AppData/Local/Temp/scp27883/home/hwrun/log/ws-err.log",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/genre_list.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/book_list.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/layout.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/bookinstance_list.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/index.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/public/stylesheets/style.css",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/package.json",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/start.cmd",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/routes/catalog.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/routes/index.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/models/genre.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/populatedb.js",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/views/error.jade",
+		"/C/Users/p_zem/Documents/Projects/Express/express-locallibrary-tutorial/routes/users.js",
+		"/C/svn/dpw/his/webapp/components/wallbuilder/code/WB.js",
+		"/C/svn/dpw/config/nyhwdev01/user.xml",
+		"/C/svn/dpw/config/nyhwstage01/user.xml",
+		"//hw.dpw.com/hwrun/config/user.xml",
+		"/C/svn/dpw/his/webapp/components/dpwreaderui/code/commentupload.js",
+		"/C/svn/dpw/his/webapp/lib/hwlib.js",
+		"/C/svn/dpw/his/webapp/components/misc/ui/querynotify.html",
+		"//hw.dpw.com/hwrun/ssl/server_intermediate.pem",
+		"//hw.dpw.com/hwrun/ssl/server.pem",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/csjs/titleviisearch.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/code/DPW_TitleVIILibraryDocumentUI.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/code/DPW_TitleVIILibrarySearchUI.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/htmlres/DPW_TitleVIILibrarySearchUI/DPW_TitleVIILibrarySearchUI.xml",
+		"//hw.dpw.com/hwrun/sendmailtest.js",
+		"/C/svn/dpw/his/dpw_master_reader.html",
+		"/C/svn/dpw/his/webapp/components/misc/htmlres/querynotify.xml",
+		"/C/svn/dpw/his/webapp/components/ntlm/code/kerberos.js",
+		"/C/svn/dpw/his/webapp/components/misc/langres/querynotify.en.xml",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/csjs/DPW_TitleVIILibraryCS.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/brokerdealer/config.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/brokerdealer/import.js",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x000023a3/Old Values",
+		"/C/svn/dpw/his/webapp/components/odsearch/code/DPW_ODSearchUI.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/code/DPW_ParisLibrarySearchUI.js",
+		"/C/svn/dpw/his/webapp/components/wallbuilder/test/search.js",
+		"/C/svn/dpw/his/webapp/lib/MailComposer.js",
+		"/C/svn/dpw/his/lib/clientlib/com/hyperwave/framework/Framework.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/css/titleviisearch.css",
+		"/C/svn/dpw/his/webapp/config/defaults.js",
+		"/C/svn/dpw/his/webapp/config/defaults.user.js",
+		"/C/svn/dpw/conf/puser",
+		"/C/svn/btz/is6/custom_berlitz/scripts/pdfReactor/html/slides.html",
+		"/C/svn/dpw/his/webapp/components/wallbuilder/test/test.js",
+		"/C/svn/dpw/his/lib/base/v1.x/com/hyperwave/framework/Framework.js",
+		"/C/svn/dpw/data/system/hw_documentclasses/hw_calendar/search.dcjs",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_WF_Task/replacePlaceholders.dcjs",
+		"/C/svn/dpw/his/lib/base/v1.x/com/hyperwave/mail/MailPrepare.js",
+		"/C/svn/dpw/data/system/hw_documentclasses/DPW_ControlledVocabulary/updateOccurrences.dcjs",
+		"/C/Users/p_zem/Documents/Projects/Express/Hello World/server.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/import.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/moveDocumentsIntoSubCollections.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/brokerdealer/test_data/export.csv",
+		"/C/svn/btz/is6/custom_berlitz/scripts/pdfReactor/stacktrace.txt",
+		"/C/svn/btz/is6/custom_berlitz/scripts/pdfReactor/convert_slides.bat",
+		"/C/svn/btz/is6/custom_berlitz/scripts/pdfReactor/wget.bat",
+		"/C/svn/dpw/scripts/lucene/createQueueFiles.js",
+		"/C/Users/p_zem/Downloads/db-details.txt",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/config.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/importTitleVII.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/code/DPW_ControlledVocabularyUI.js",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/brokerdealer/import.csv",
+		"/C/Users/p_zem/Downloads/Dock_DL_Win_A00_Setup-2FYHH/ReleaseNote.txt",
+		"/C/Program Files/Hyperwave/IS7/admin/backup/control.js",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x00005e8b/update.dcjs",
+		"/C/svn/dpw/data/system/hw_documentclasses/DPW_ControlledVocabulary/update.dcjs",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x00005e8f/updateOccurrences.dcjs",
+		"/C/temp/Countries.txt",
+		"/C/svn/dpw/data/system/hw_documentclasses/dpw_librarycollection/derived/dpw_malibrarycollection/derived/dpw_malibrarysubcollection/hw_notify_post_bulkinsert.dcjs",
+		"/C/svn/dpw/scripts/practice libraries/fig/import/brokerdealer/test_data/#89576450v2 - (Broker Dealer Database Import Tags) (1).csv",
+		"/C/svn/dpw/config/nyhwapp01/user.xml",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x00007213/replacePlaceholders.dcjs",
+		"/C/svn/dpw/config/dev/user.xml",
+		"/C/svn/dpw/scripts/decodeBase64.js",
+		"/C/svn/dpw/java/bin/hwconnect.cmd",
+		"/C/Users/p_zem/AppData/Local/Temp/scp51176/home/hwrun/webservice/webapps/AdobeConnectServlet/WEB-INF/web.xml",
+		"/C/Users/p_zem/AppData/Local/Temp/scp47696/home/hwrun/log/tomcat.log",
+		"/C/Users/p_zem/AppData/Local/Temp/scp20680/home/hwrun/log/ws-err.log",
+		"/C/Users/p_zem/AppData/Local/Temp/scp24808/home/hwrun/log/notify.log",
+		"/C/svn/dpw/his/webapp/components/dpwreaderui/code/DpwReaderUI.js",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_WF_Task/Derived/HW_WF_TaskSystem/dpw_publishdeal.dcjs",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_WF_Task/Derived/HW_WF_TaskSystem/dpw_publishmandatepapers.dcjs",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x0000707f/dpw_publishmandatepapers.dcjs",
+		"/C/svn/dpw/his/webapp/components/workflow/code/HW_WF_WorkFlowUI.js",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/htmlres/DPW_CreditLibraryCollectionUI/DPW_CreditLibraryCollectionUI.xml",
+		"/C/svn/dpw/his/webapp/components/dpwlibraries/code/DPW_CreditLibraryCollectionMetaData.js",
+		"/C/svn/dpw/his/webapp/hwincludes_reader.html",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_WF_Task/Derived/HW_WF_TaskSystem/dpw_publishmandatepapers.hwjs",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x000024f2/Mandate Paper Submission Form.htm",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x00007079/dpw_changedealrights.dcjs",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x000024ed/M&A Precedent Form.htm",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x0000707b/dpw_closedeal.dcjs",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x000024dd/Credit Deal Closing Form.htm",
+		"/C/svn/dpw/his/webapp/components/wallbuilder/code/WallBuilderUI.js",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_WF_Task/Derived/HW_WF_TaskSystem/dpw_changedealrights.dcjs",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_WF_Task/Derived/HW_WF_TaskSystem/dpw_closedeal.dcjs",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_VF_UI.hmi",
+		"/C/svn/dpw/data/system/hw_documentclasses/HW_VF_UI/dlgRemove.dcjs",
+		"/C/svn/dpw/his/webapp/components/hwe/include.html",
+		"/C/svn/dpw/his/webapp/hwincludes.html",
+		"/C/svn/dpw/his/webapp/components/recycle_bin/include.html",
+		"/C/svn/dpw/his/webapp/components/bookmarks/include.html",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x00005e87/hw_api_replace.dcjs",
+		"/C/svn/dpw/his/webapp/components/dpwsso/code/sso.js",
+		"/C/svn/dpw/his/webapp/components/dpwsso/html/sso_error_page.html",
+		"/C/Users/p_zem/AppData/Roaming/Hyperwave/Sync/$tmp/hw.dpw.com (hwsystem)/0xc0a83866 0x000093ae/haschildwithwall_s_wm.dcjs",
+		"/C/svn/dpw/his/webapp/lib/eKSIntegration.js",
+		"/C/svn/dpw/his/webapp/components/standardpage/code/updateCSCache.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 137.0,
+		"where_history":
+		[
+			"C:\\Users\\p_zem\\Documents\\Projects\\Express\\express-locallibrary-tutorial",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\lib",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses\\HW_WF_Task",
+			"C:\\svn\\dpw\\scripts\\practice libraries",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp\\components\\ntlm",
+			"C:\\svn\\dpw\\his\\webapp\\components\\odsearch",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\misc",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\components\\misc",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\scripts\\practice libraries",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\ldapsync",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\ldapsync",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries\\code",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries\\htmlres",
+			"C:\\svn\\dpw\\his\\lib\\base\\v1.x\\com\\hyperwave\\audit",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\config",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\lib",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his\\webapp\\components\\rssreader",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\lib",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\lib",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\built\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses\\hw_readconfirmation",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\admin",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\lib",
+			"C:\\svn\\dpw\\his\\lib\\base\\v1.x\\lang",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\components\\oddocument",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\oddocument",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\lib",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries\\csjs",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\data",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\his\\webapp\\components\\search",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\data\\system\\hw_documentclasses",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his\\webapp",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries",
+			"C:\\svn\\dpw\\scripts",
+			"C:\\svn\\dpw\\his",
+			"C:\\svn\\dpw\\his\\webapp\\components\\dpwlibraries"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"date_of_birth",
+			"due_back",
+			"_formatted",
+			"Error executing method \"update\" of document class \"HW_FormPage\"",
+			"author",
+			"formated",
+			"date_of_birth",
+			"BookInstance",
+			"bookinstance",
+			"BookInstance",
+			"bookinstance",
+			"BookInstance",
+			"BINDING",
+			"wavenotify",
+			" = ",
+			"wavenotify",
+			"fullurl",
+			"wavenotify",
+			"8891",
+			" = ",
+			"_ssl",
+			"ssl",
+			"\"81\"",
+			"ssl",
+			"class=\"wave\"",
+			"hw_deb",
+			"DPW_WAVENOTIFY",
+			"WAVE_WAVENOTIFY",
+			"8891",
+			"WAVE_WAVENOTIFY",
+			" = ",
+			"e = ",
+			"wavenotify",
+			" = ",
+			"\"82\"",
+			"getUrl",
+			"edit",
+			"\"\"",
+			",",
+			"'",
+			"col: \\d+},",
+			"ShareholderPrecedentType",
+			"\"",
+			"Product for Whom",
+			"Responding Attorney",
+			"place('gate.hostname')",
+			"wavemaster.protocol",
+			"'http://'",
+			"wavemaster.protocol",
+			"http://",
+			"font",
+			"server.",
+			"this.static_.",
+			"class$.static_.",
+			"com =",
+			"include(",
+			"lightobject",
+			"debug",
+			"HW_DEB.WB, ",
+			"%7C",
+			"8889",
+			"col-1",
+			"%20",
+			"broker-dealer databa",
+			"compilation",
+			"%7C",
+			"uid=",
+			"lbd",
+			"tmpl_cheboxes",
+			"lbd",
+			"tmpl_cheboxes",
+			"getOptionsFromCV",
+			"\\n",
+			"Comments",
+			"comments",
+			"Comments",
+			"Margin and Securities Financing",
+			"logRow",
+			"existingTopics",
+			"parent",
+			"skip",
+			"test_data",
+			"root",
+			"ROOT",
+			"root",
+			"TEST_MODE",
+			"convert",
+			"server.",
+			"IMPORT_ROOT_PATH",
+			"server",
+			"destination",
+			"IMPORT_ROOT_OBJ",
+			"IMPORT_ROOT",
+			"root_obj",
+			"legacy",
+			"/oldvalues",
+			"oldvalues",
+			"/oldvalues",
+			"args.toSource():",
+			"args.toSource",
+			"todo",
+			"\\\\\\",
+			"\\\\",
+			"path",
+			"%20",
+			"CONTENT_DIR",
+			"entry.Filename",
+			"CONTENT_DIR",
+			"filename",
+			"getTopics",
+			"topics",
+			"values_obj",
+			"topics",
+			"server",
+			"api",
+			"testCSVParser",
+			"LOG",
+			"mappings",
+			"mappings[k]",
+			"values[j]",
+			"SUBJECT2TOPIC",
+			"EXCLUDED_COMPILATIONS",
+			" at ",
+			"at",
+			" The ",
+			" the ",
+			"dribble",
+			"\"Description\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"DPW_CreditLibrarySubCollection",
+			"Language Lessons_files",
+			"\"\\n",
+			"\" \"",
+			"\"\\n",
+			"\" \"",
+			"CreditLibrary",
+			"DPW_OfferingDocument",
+			"DPW_ODDocument"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/bookinstanceController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2744,
+								2744
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 998.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/bookinstance_form.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1382,
+								1382
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/authorController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4484,
+								4484
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/author_delete.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/author_detail.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "Packages/User/HW DPW.sublime-build",
+	"project": "express-locallibrary-tutorial.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"index.jade",
+				"views\\index.jade"
+			],
+			[
+				"style.css",
+				"public\\stylesheets\\style.css"
+			],
+			[
+				"layout",
+				"views\\layout.jade"
+			],
+			[
+				"wb.js",
+				"his\\webapp\\components\\wallbuilder\\code\\WB.js"
+			],
+			[
+				"user.xml",
+				"config\\nyhwdev01\\user.xml"
+			],
+			[
+				"commentup",
+				"his\\webapp\\components\\dpwreaderui\\code\\commentupload.js"
+			],
+			[
+				"hwlib",
+				"his\\webapp\\lib\\hwlib.js"
+			],
+			[
+				"querynotify",
+				"his\\webapp\\components\\misc\\ui\\querynotify.html"
+			],
+			[
+				"comment",
+				"his\\webapp\\components\\dpwreaderui\\code\\commentupload.js"
+			],
+			[
+				"master_",
+				"his\\dpw_master_reader.html"
+			],
+			[
+				"commentu",
+				"his\\webapp\\components\\dpwreaderui\\code\\commentupload.js"
+			],
+			[
+				"kerberos.js",
+				"his\\webapp\\components\\ntlm\\code\\kerberos.js"
+			],
+			[
+				"queryno",
+				"his\\webapp\\components\\misc\\langres\\querynotify.en.xml"
+			],
+			[
+				"querynoti",
+				"his\\webapp\\components\\misc\\htmlres\\querynotify.xml"
+			],
+			[
+				"config.js",
+				"scripts\\practice libraries\\fig\\import\\brokerdealer\\config.js"
+			],
+			[
+				"import",
+				"scripts\\practice libraries\\fig\\import\\brokerdealer\\import.js"
+			],
+			[
+				"titlviilibrary",
+				"his\\webapp\\components\\dpwlibraries\\csjs\\DPW_TitleVIILibraryCS.js"
+			],
+			[
+				"titlvili",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_TitleVIILibrarySearchUI\\DPW_TitleVIILibrarySearchUI.xml"
+			],
+			[
+				"titlviilib",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_TitleVIILibrarySearchUI.js"
+			],
+			[
+				"mailcomp",
+				"his\\webapp\\lib\\MailComposer.js"
+			],
+			[
+				"od_searchui",
+				"his\\webapp\\components\\odsearch\\code\\DPW_ODSearchUI.js"
+			],
+			[
+				"defaults.js",
+				"his\\webapp\\config\\defaults.js"
+			],
+			[
+				"default.user",
+				"his\\webapp\\config\\defaults.user.js"
+			],
+			[
+				"replacepal",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\replacePlaceholders.dcjs"
+			],
+			[
+				"mailprep",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\mail\\MailPrepare.js"
+			],
+			[
+				"updateocu",
+				"data\\system\\hw_documentclasses\\DPW_ControlledVocabulary\\updateOccurrences.dcjs"
+			],
+			[
+				"titleviisea",
+				"his\\webapp\\components\\dpwlibraries\\css\\titleviisearch.css"
+			],
+			[
+				"titlviilibarysearch",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_TitleVIILibrarySearchUI\\DPW_TitleVIILibrarySearchUI.xml"
+			],
+			[
+				"od_searchui.js",
+				"his\\webapp\\components\\odsearch\\code\\DPW_ODSearchUI.js"
+			],
+			[
+				"titlviilibrarysearui",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_TitleVIILibrarySearchUI\\DPW_TitleVIILibrarySearchUI.xml"
+			],
+			[
+				"titleviili",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_TitleVIILibrarySearchUI.js"
+			],
+			[
+				"import.js",
+				"scripts\\practice libraries\\fig\\import\\brokerdealer\\import.js"
+			],
+			[
+				"updateoc",
+				"data\\system\\hw_documentclasses\\DPW_ControlledVocabulary\\updateOccurrences.dcjs"
+			],
+			[
+				"update.dcjs",
+				"data\\system\\hw_documentclasses\\DPW_ControlledVocabulary\\update.dcjs"
+			],
+			[
+				"update",
+				"data\\system\\hw_documentclasses\\DPW_ControlledVocabulary\\updateOccurrences.dcjs"
+			],
+			[
+				"controlled",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_ControlledVocabularyUI.js"
+			],
+			[
+				"broker",
+				"scripts\\practice libraries\\fig\\import\\brokerdealer\\test_data\\#89576450v2 - (Broker Dealer Database Import Tags) (1).csv"
+			],
+			[
+				"mailpr",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\mail\\MailPrepare.js"
+			],
+			[
+				"",
+				"config\\nyhwstage01\\user.xml"
+			],
+			[
+				"master_rea",
+				"his\\dpw_master_reader.html"
+			],
+			[
+				"publishmanda",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_publishmandatepapers.dcjs"
+			],
+			[
+				"dpw_creditlibrarycol",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_CreditLibraryCollectionUI\\DPW_CreditLibraryCollectionUI.xml"
+			],
+			[
+				"creditlibrarycol",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_CreditLibraryCollectionMetaData.js"
+			],
+			[
+				"hw_wf_workflu",
+				"his\\webapp\\components\\workflow\\code\\HW_WF_WorkFlowUI.js"
+			],
+			[
+				"include_",
+				"his\\webapp\\hwincludes_reader.html"
+			],
+			[
+				"mailprepar",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\mail\\MailPrepare.js"
+			],
+			[
+				"publishman",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_publishmandatepapers.hwjs"
+			],
+			[
+				"dpwreader",
+				"his\\webapp\\components\\dpwreaderui\\code\\DpwReaderUI.js"
+			],
+			[
+				"hw_vf_ui.",
+				"data\\system\\hw_documentclasses\\HW_VF_UI.hmi"
+			],
+			[
+				"hwincludes",
+				"his\\webapp\\hwincludes.html"
+			],
+			[
+				"hwinc",
+				"his\\webapp\\hwincludes_reader.html"
+			],
+			[
+				"readerui",
+				"his\\webapp\\components\\dpwreaderui\\code\\DpwReaderUI.js"
+			],
+			[
+				"od_",
+				"his\\webapp\\components\\odsearch\\code\\DPW_ODSearchUI.js"
+			],
+			[
+				"updatechi",
+				"data\\system\\hw_documentclasses\\dpw_librarycollection\\updateChildren.dcjs"
+			],
+			[
+				"dpwpublish",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_publishdeal.dcjs"
+			],
+			[
+				"updatech",
+				"data\\system\\hw_documentclasses\\dpw_offeringdocument\\updateChildren.dcjs"
+			],
+			[
+				"close",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_closedeal.dcjs"
+			],
+			[
+				"dpwr",
+				"his\\webapp\\components\\dpwreaderui\\code\\DpwReaderUI.js"
+			],
+			[
+				"taskui",
+				"his\\webapp\\components\\workflow\\code\\HW_WF_TaskUI.js"
+			],
+			[
+				"workflowhelp",
+				"his\\webapp\\components\\workflow\\code\\HW_WF_WorkflowHelper.js"
+			],
+			[
+				"ondone",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\onDone.dcjs"
+			],
+			[
+				"closedeal",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_closedeal.dcjs"
+			],
+			[
+				"create",
+				"scripts\\lucene\\createQueueFiles.bat"
+			],
+			[
+				"createque",
+				"scripts\\lucene\\createQueueFiles.js"
+			],
+			[
+				"hw_wf_taskuserformui",
+				"his\\webapp\\components\\workflow\\code\\HW_WF_TaskUserFormUI.js"
+			],
+			[
+				"defaults.user.js",
+				"his\\webapp\\config\\defaults.user.js"
+			],
+			[
+				"dpw_publish",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_publishdeal.dcjs"
+			],
+			[
+				"mailprepa",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\mail\\MailPrepare.js"
+			],
+			[
+				"sendmail.dcjs",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_WorkFlow\\sendEmail.dcjs"
+			],
+			[
+				"hw_wf_workflow",
+				"data\\system\\hw_documentclasses\\HW_WF_CaseStatus\\getWorkFlow.dcjs"
+			],
+			[
+				"dpw_offerindocument",
+				"his\\webapp\\components\\oddocument\\code\\DPW_OfferingDocumentUI.js"
+			],
+			[
+				"publish.dcjs",
+				"data\\system\\hw_documentclasses\\HW_WF_Task\\Derived\\HW_WF_TaskSystem\\dpw_publishdeal.dcjs"
+			],
+			[
+				"createqu",
+				"scripts\\lucene\\createQueueFiles.js"
+			],
+			[
+				"dpwre",
+				"his\\webapp\\components\\dpwreaderui\\code\\DpwReaderUI.js"
+			],
+			[
+				"creditlibrarysearch",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_CreditLibrarySearchUI\\DPW_CreditLibrarySearchUI.xml"
+			],
+			[
+				"creditlibrars",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_CreditLibrarySearchUI.js"
+			],
+			[
+				"odsearch",
+				"his\\webapp\\components\\odsearch\\htmlres\\DPW_ODSearchUI\\DPW_ODSearchUI.xml"
+			],
+			[
+				"odsearchui",
+				"his\\webapp\\components\\odsearch\\code\\DPW_ODSearchUI.js"
+			],
+			[
+				"dpwreaderui",
+				"his\\webapp\\components\\dpwreaderui\\code\\DpwReaderUI.js"
+			],
+			[
+				"ssse",
+				"his\\webapp\\components\\search\\code\\SSSearchLib.js"
+			],
+			[
+				"default.su",
+				"his\\webapp\\config\\defaults.user.js"
+			],
+			[
+				"string",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\util\\String.js"
+			],
+			[
+				"defaul",
+				"his\\webapp\\lib\\defaultdialog.js"
+			],
+			[
+				"view",
+				"his\\webapp\\config\\dlgView.js"
+			],
+			[
+				"default.js",
+				"his\\webapp\\config\\defaults.js"
+			],
+			[
+				"sssearchl",
+				"his\\webapp\\components\\search\\code\\SSSearchLib.js"
+			],
+			[
+				"default.user.js",
+				"his\\webapp\\config\\defaults.user.js"
+			],
+			[
+				"sssearchli",
+				"his\\webapp\\components\\search\\code\\SSSearchLib.js"
+			],
+			[
+				"defaults.use.js",
+				"his\\webapp\\config\\defaults.user.js"
+			],
+			[
+				"csvpar",
+				"scripts\\practice libraries\\fig\\import\\CSVParser.js"
+			],
+			[
+				"titlvii",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_TitleVIILibraryDocumentUI.js"
+			],
+			[
+				"csvp",
+				"scripts\\practice libraries\\fig\\import\\CSVParser.js"
+			],
+			[
+				"jsonapi",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\net\\json\\JsonApi.js"
+			],
+			[
+				"kerber",
+				"his\\webapp\\components\\ntlm\\code\\kerberos.js"
+			],
+			[
+				"master",
+				"his\\dpw_master_author.html"
+			],
+			[
+				"ldapsync_confi",
+				"ldapsync\\hwldapsync_user_config.js"
+			],
+			[
+				"ldapsyn",
+				"ldapsync\\hwldapsync.js"
+			],
+			[
+				"master_au",
+				"his\\dpw_master_author.html"
+			],
+			[
+				"kerb",
+				"his\\webapp\\components\\ntlm\\code\\kerberos.js"
+			],
+			[
+				"master_uah",
+				"his\\dpw_master_author.html"
+			],
+			[
+				"jsona",
+				"his\\lib\\base\\v1.x\\com\\hyperwave\\net\\json\\JsonApi.js"
+			],
+			[
+				"wb",
+				"his\\webapp\\components\\wallbuilder\\code\\WB.js"
+			],
+			[
+				"readme",
+				"his\\webapp\\lib\\Readme.defaultdialog.html"
+			],
+			[
+				"dpwlibrarydocumen",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_LibraryDocumentUI\\DPW_LibraryDocumentUI.xml"
+			],
+			[
+				"hw_bookmarkui.xml",
+				"his\\webapp\\components\\bookmarks\\htmlres\\HW_BookmarkUI\\createbookmark.xml"
+			],
+			[
+				"librarydocument",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_LibraryDocumentUI.js"
+			],
+			[
+				"readme.de",
+				"his\\webapp\\lib\\Readme.defaultdialog.html"
+			],
+			[
+				"eclibrarydocu",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_ECLibraryDocumentUI.js"
+			],
+			[
+				"eclibrarysearchui",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_ECLibrarySearchUI\\DPW_ECLibrarySearchUI.xml"
+			],
+			[
+				"eclibrary",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_ECLibrarySearchUI.js"
+			],
+			[
+				"readmedef",
+				"his\\webapp\\lib\\Readme.defaultdialog.html"
+			],
+			[
+				"dpwread",
+				"his\\webapp\\components\\dpwreaderui\\htmlres\\dpwreader.xml"
+			],
+			[
+				"od_offeringco",
+				"his\\webapp\\components\\oddocument\\code\\DPW_OfferingDocumentUI.js"
+			],
+			[
+				"cslib",
+				"his\\webapp\\lib\\cslib.js"
+			],
+			[
+				"hwldaps",
+				"ldapsync\\hwldapsync.js"
+			],
+			[
+				"eclibearyse",
+				"his\\webapp\\components\\dpwlibraries\\htmlres\\DPW_ECLibrarySearchUI\\DPW_ECLibrarySearchUI.xml"
+			],
+			[
+				"ecsearch.css",
+				"his\\webapp\\components\\dpwlibraries\\css\\ecsearch.css"
+			],
+			[
+				"dpwlibrarycolle",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_LibraryCollectionUI.js"
+			],
+			[
+				"malibrarycole",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_MALibraryCollectionUI.js"
+			],
+			[
+				"csdefa",
+				"his\\webapp\\lib\\csdefaultdialogscripts.js"
+			],
+			[
+				"malibrarycol",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_MALibraryCollectionUI.js"
+			],
+			[
+				"od_documntui",
+				"his\\webapp\\components\\oddocument\\code\\DPW_OfferingDocumentUI.js"
+			],
+			[
+				"od_searchui.xml",
+				"his\\webapp\\components\\odsearch\\htmlres\\DPW_ODSearchUI\\DPW_ODSearchUI.xml"
+			],
+			[
+				"titlviilibrarydocum",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_TitleVIILibraryDocumentUI.js"
+			],
+			[
+				"titlviili",
+				"his\\webapp\\components\\dpwlibraries\\code\\DPW_TitleVIILibraryUI.js"
+			],
+			[
+				"datefunctions.js",
+				"his\\webapp\\lib\\datefunctions.js"
+			],
+			[
+				"hwincludesreader",
+				"his\\webapp\\hwincludes_reader.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1250.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\svn\\btz\\btz.sublime-project"
+			]
+		],
+		"width": 950.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "show",
+		"selected_items":
+		[
+			[
+				"show",
+				"show"
+			]
+		],
+		"width": 593.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
